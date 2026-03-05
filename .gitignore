@@ -1,0 +1,51 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+*.html
+
+# Workspace files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Build artifacts
+dist/
+build/
+
+# Log files
+*.log
+
+# Coverage
+coverage.txt
+coverage.html
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+*.backup2
+
+# OS files
+.DS_Store
+Thumbs.db
